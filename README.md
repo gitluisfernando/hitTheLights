@@ -10,4 +10,4 @@ em um banco de dados SQLite (veja aqui como acessar o SQLite a partir do código
 
 ____________________________________________________________________________________________
 
-Nosso sistema irá monitorar uma planta para identificar quando ela precisa de água.
+Nosso sistema executar um sensor de luminosidade
